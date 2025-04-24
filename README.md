@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi12103606/placement-class/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abhi12103606/placement-class/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
