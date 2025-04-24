@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
