@@ -1,0 +1,21 @@
+class Solution {
+public:
+    string countAndSay(int n) {
+        string currentTerm = "1";
+        while(--n){
+            string nextTerm= "";
+
+            for(int i=0; i<currentTerm.size();){
+                int countIndex=i;
+                while(countIndex<currentTerm.size()&&currentTerm[countIndex]==currentTerm[i]){
+                    ++countIndex;
+                }
+                nextTerm+=to_string(countIndex - i);
+                nextTerm+=currentTerm[i];
+                i=countIndex;
+            }
+            currentTerm = nextTerm;
+        }
+        return currentTerm;
+    }
+};
