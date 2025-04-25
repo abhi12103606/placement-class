@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhi12103606/placement-class/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhi12103606/placement-class/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/abhi12103606/placement-class/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhi12103606/placement-class/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhi12103606/placement-class/tree/master/0225-implement-stack-using-queues) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
