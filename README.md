@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/abhi12103606/placement-class/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
+| [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi12103606/placement-class/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhi12103606/placement-class/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi12103606/placement-class/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi12103606/placement-class/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
