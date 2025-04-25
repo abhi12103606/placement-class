@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/abhi12103606/placement-class/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhi12103606/placement-class/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhi12103606/placement-class/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi12103606/placement-class/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhi12103606/placement-class/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhi12103606/placement-class/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
