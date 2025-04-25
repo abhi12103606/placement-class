@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhi12103606/placement-class/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhi12103606/placement-class/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
