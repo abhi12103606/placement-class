@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhi12103606/placement-class/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhi12103606/placement-class/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhi12103606/placement-class/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhi12103606/placement-class/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhi12103606/placement-class/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
