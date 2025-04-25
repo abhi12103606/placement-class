@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
+| [0812-rotate-string](https://github.com/abhi12103606/placement-class/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhi12103606/placement-class/tree/master/0735-asteroid-collision) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/abhi12103606/placement-class/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
