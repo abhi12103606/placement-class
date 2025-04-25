@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhi12103606/placement-class/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/abhi12103606/placement-class/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/abhi12103606/placement-class/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/abhi12103606/placement-class/tree/master/0596-classes-more-than-5-students) |
 ## Bit Manipulation
 |  |
 | ------- |
