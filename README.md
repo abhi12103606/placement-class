@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhi12103606/placement-class/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhi12103606/placement-class/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/abhi12103606/placement-class/tree/master/0162-find-peak-element) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Memoization
 |  |
 | ------- |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
