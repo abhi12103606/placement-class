@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhi12103606/placement-class/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/abhi12103606/placement-class/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/abhi12103606/placement-class/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/abhi12103606/placement-class/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
 | ------- |
