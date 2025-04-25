@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/abhi12103606/placement-class/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhi12103606/placement-class/tree/master/0162-find-peak-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/abhi12103606/placement-class/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
