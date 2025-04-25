@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/abhi12103606/placement-class/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/abhi12103606/placement-class/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/abhi12103606/placement-class/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/abhi12103606/placement-class/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
