@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/abhi12103606/placement-class/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhi12103606/placement-class/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/abhi12103606/placement-class/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhi12103606/placement-class/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/abhi12103606/placement-class/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhi12103606/placement-class/tree/master/0739-daily-temperatures) |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhi12103606/placement-class/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi12103606/placement-class/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi12103606/placement-class/tree/master/0232-implement-queue-using-stacks) |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 ## Database
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhi12103606/placement-class/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -284,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/abhi12103606/placement-class/tree/master/1203-print-in-order) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
