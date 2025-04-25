@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhi12103606/placement-class/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhi12103606/placement-class/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/abhi12103606/placement-class/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi12103606/placement-class/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 ## Array
 |  |
 | ------- |
@@ -171,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/abhi12103606/placement-class/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/abhi12103606/placement-class/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhi12103606/placement-class/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
