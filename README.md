@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhi12103606/placement-class/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhi12103606/placement-class/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/abhi12103606/placement-class/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi12103606/placement-class/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/abhi12103606/placement-class/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
