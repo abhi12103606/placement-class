@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhi12103606/placement-class/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/abhi12103606/placement-class/tree/master/0326-power-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/abhi12103606/placement-class/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
 | ------- |
