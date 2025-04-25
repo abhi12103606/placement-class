@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhi12103606/placement-class/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/abhi12103606/placement-class/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhi12103606/placement-class/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhi12103606/placement-class/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhi12103606/placement-class/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
