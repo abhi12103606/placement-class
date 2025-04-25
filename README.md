@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/abhi12103606/placement-class/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/abhi12103606/placement-class/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
 ## Combinatorics
 |  |
 | ------- |
