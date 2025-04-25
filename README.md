@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/abhi12103606/placement-class/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
+| [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhi12103606/placement-class/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
+| [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 ## Combinatorics
 |  |
 | ------- |
