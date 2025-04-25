@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi12103606/placement-class/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0435-non-overlapping-intervals](https://github.com/abhi12103606/placement-class/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/abhi12103606/placement-class/tree/master/0735-asteroid-collision) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhi12103606/placement-class/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhi12103606/placement-class/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/abhi12103606/placement-class/tree/master/0435-non-overlapping-intervals) |
 | [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 ## Divide and Conquer
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abhi12103606/placement-class/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhi12103606/placement-class/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhi12103606/placement-class/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/abhi12103606/placement-class/tree/master/0435-non-overlapping-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
 ## Stack
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhi12103606/placement-class/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi12103606/placement-class/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/abhi12103606/placement-class/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 ## Combinatorics
