@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/abhi12103606/placement-class/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/abhi12103606/placement-class/tree/master/0596-classes-more-than-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/abhi12103606/placement-class/tree/master/1153-product-sales-analysis-i) |
+| [1258-article-views-i](https://github.com/abhi12103606/placement-class/tree/master/1258-article-views-i) |
 ## Bit Manipulation
 |  |
 | ------- |
