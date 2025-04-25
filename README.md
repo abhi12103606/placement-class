@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi12103606/placement-class/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhi12103606/placement-class/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhi12103606/placement-class/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi12103606/placement-class/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi12103606/placement-class/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
