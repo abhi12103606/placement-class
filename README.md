@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhi12103606/placement-class/tree/master/0229-majority-element-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0496-next-greater-element-i](https://github.com/abhi12103606/placement-class/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/abhi12103606/placement-class/tree/master/0162-find-peak-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/abhi12103606/placement-class/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhi12103606/placement-class/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
