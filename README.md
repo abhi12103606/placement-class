@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhi12103606/placement-class/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/abhi12103606/placement-class/tree/master/0326-power-of-three) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhi12103606/placement-class/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/abhi12103606/placement-class/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 | [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhi12103606/placement-class/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi12103606/placement-class/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
