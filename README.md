@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi12103606/placement-class/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abhi12103606/placement-class/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/abhi12103606/placement-class/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/abhi12103606/placement-class/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhi12103606/placement-class/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi12103606/placement-class/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhi12103606/placement-class/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/abhi12103606/placement-class/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/abhi12103606/placement-class/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/abhi12103606/placement-class/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/abhi12103606/placement-class/tree/master/0187-repeated-dna-sequences) |
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/abhi12103606/placement-class/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/abhi12103606/placement-class/tree/master/0735-asteroid-collision) |
 ## String Matching
 |  |
