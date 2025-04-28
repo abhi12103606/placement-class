@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abhi12103606/placement-class/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/abhi12103606/placement-class/tree/master/0433-minimum-genetic-mutation) |
 | [0812-rotate-string](https://github.com/abhi12103606/placement-class/tree/master/0812-rotate-string) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/abhi12103606/placement-class/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi12103606/placement-class/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/abhi12103606/placement-class/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhi12103606/placement-class/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/abhi12103606/placement-class/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhi12103606/placement-class/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhi12103606/placement-class/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/abhi12103606/placement-class/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhi12103606/placement-class/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/abhi12103606/placement-class/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhi12103606/placement-class/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/abhi12103606/placement-class/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
