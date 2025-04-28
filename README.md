@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 | [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhi12103606/placement-class/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
