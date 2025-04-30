@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/abhi12103606/placement-class/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhi12103606/placement-class/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/abhi12103606/placement-class/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Math
 |  |
 | ------- |
