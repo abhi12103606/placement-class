@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhi12103606/placement-class/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhi12103606/placement-class/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/abhi12103606/placement-class/tree/master/0326-power-of-three) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/abhi12103606/placement-class/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi12103606/placement-class/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/abhi12103606/placement-class/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/abhi12103606/placement-class/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhi12103606/placement-class/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/abhi12103606/placement-class/tree/master/0967-minimum-falling-path-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/abhi12103606/placement-class/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1582-design-browser-history](https://github.com/abhi12103606/placement-class/tree/master/1582-design-browser-history) |
 | [2245-destroying-asteroids](https://github.com/abhi12103606/placement-class/tree/master/2245-destroying-asteroids) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhi12103606/placement-class/tree/master/2432-number-of-zero-filled-subarrays) |
